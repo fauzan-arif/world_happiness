@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "world-happiness"
+version = "0.1.0"
+description = ""
+authors = ["Fauzan Arif  <77801644+fauzan-arif@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
